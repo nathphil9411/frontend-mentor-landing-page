@@ -10,7 +10,10 @@ This is the solution to the [Manage landing page challenge on Frontend Mentor](h
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
+- Html
+- CSS
+- JavaScript
+  
 
 ## Introduction
 
